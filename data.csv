@@ -1,0 +1,11 @@
+ID,Name,Faction,Abilities,Transforms Into,Color
+1,Luke Skywalker,Rebel,"['Lightsaber Mastery','Force Push']",X-wing,Orange
+2,Darth Vader,Sith,"['Force Choke','Lightsaber Combat']",TIE Fighter,Black
+3,Han Solo,Rebel,"['Sharpshooting','Piloting']",Millennium Falcon,Blue
+4,Boba Fett,Bounty Hunter,"['Tracking','Jetpack']",Slave I,Green
+5,Leia Organa,Rebel,"['Diplomacy','Blaster Proficiency']",Speeder Bike,White
+6,Emperor Palpatine,Sith,"['Force Lightning','Dark Side Manipulation']",Imperial Shuttle,Red
+7,Obi-Wan Kenobi,Jedi,"['Lightsaber Combat','Mind Trick']",Jedi Starfighter,Blue
+8,General Grievous,Separatist,"['Lightsaber Combat','Droid Army Tactics']",Wheel Bike,Brown
+9,Yoda,Jedi,"['Force Mastery','Wisdom']",Jedi Starfighter,Green
+10,Count Dooku,Sith,"['Dueling','Force Lightning']",Solar Sailer,Purple
